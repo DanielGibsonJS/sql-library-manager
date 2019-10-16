@@ -1,1 +1,1 @@
-# techdegree-prokect-08
+# techdegree-project-08
